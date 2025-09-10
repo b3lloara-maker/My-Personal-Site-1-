@@ -1,0 +1,23 @@
+.profile img{
+    text-align: center;
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+}
+.profile{
+    text-align: center;
+}
+body{
+    background-color: rgb(80, 226, 112);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-style: italic;
+    color: black (89, 233, 17);
+    border-left: 4px solid #15884f;
+    margin-left: 0;
+    padding-left: 1px;
+    background-color: #f573ee;
+    border-radius: 3px;
+    margin: 20px 0;
+}
